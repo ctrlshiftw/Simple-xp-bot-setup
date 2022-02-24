@@ -1,0 +1,19 @@
+{
+  "name": "simple-xp-bot-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
